@@ -32,3 +32,4 @@ docker run --rm \
   --mount type=bind,source=`pwd`,destination=/code/,readonly \
   aip-site \
   "$@"
+[aip.https://www.google.com/search?q=%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%A2&sca_esv=aaf21fd86605b0cd&source=hp&ei=3C4rZ7ytCo2UseMPo8PwoAo&oq=&gs_lp=EhFtb2JpbGUtZ3dzLXdpei1ocCIAKgIIADICECkyAhApMgIQKTICECkyAhApMgIQKTICECkyBRApGIAEMgIQKTILECkYgAQYxwEYrwEyChAAGAMY6gIYjwEyChAuGAMY6gIYjwEyChAAGAMY6gIYjwEyChAAGAMY6gIYjwEyChAAGAMY6gIYjwEyChAAGAMY6gIYjwEyChAAGAMY6gIYjwEyChAuGAMY6gIYjwEyChAAGAMY6gIYjwEyChAuGAMY6gIYjwEyChAAGAMY6gIYjwEyChAAGAMY6gIYjwEyChAuGAMY6gIYjwEyChAAGAMY6gIYjwEyChAAGAMY6gIYjwFIwA5QAFgAcAF4AJABAJgBAKABAKoBALgBAcgBAJgCAaACZKgCGZgDZJIHAzAuMaAHAA&sclient=mobile-gws-wiz-hp.site-generator==0.6.0]
